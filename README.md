@@ -9,15 +9,15 @@
 ### Analysis of Outcomes Based on Launch Date  
 
  
-![](./resources/Theater_Outcome_vs_Launch.png)   
+![](./Resources/Theater_Outcome_vs_Launch.png)   
 
 The line graph above represnts outcomes based off launch date between the Years 2009-2017. The graph shows an upward trend between March and May. In march there  61% out outcomes were successful, April had 64% successful outcomes, and May had rate of success at 67%. The average failed outcome rate was about 34% from March-May. 
 Conversely, October-December seem to be the months with lowest success rate. October had a success rate of 57%, November had a success rate of 61%, and December with success rate of 49%. Average failure ratio between October-Decmeber was higher at 42%. Please see table below to refernce outcome ratios.
-![](./resources/Monthly_Dist.png). 
+![](./Resources/Monthly_Dist.png). 
   
 
 ### Analysis of Outcomes Based on Goals  
-![](./resources/Outcomes_vs. Goals.png)
+![](./Resources/Outcomes_vs_Goals.png)
 
 The graph visualzies the relationshio between Outcomes and Goal amounts in different ranges. To anlalyze this data the first step was to find out the outcomes based on Goal amount, Outcomes and sub-catefory which in this case only plays. Countif statements were used to derive this data. The range for each bin was seperated by 5000 units/dollars. An example of a countif statemetn used is **=COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<5000",Kickstarter!$F:$F,'Outcomes based on Goals'!L1,Kickstarter!$R:$R,"Plays"**)  
 
@@ -52,4 +52,4 @@ Also, we are in 2020 so maybe the trends leading up to 2017 may have changed. Si
 
 For the outcomes vs launch date I did like the line chart we used because the trend was easir to visualze.
 However, for outcomes based on goals I would prefer to use a stacked column graph with one trend line. For me it is easier to see the trend by looking at one line. The bar graph I used is located below.
-![](./resources/Column_graph.png). 
+![](./Resources/Column_graph.png). 
