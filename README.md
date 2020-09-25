@@ -53,4 +53,3 @@ Also, we are in 2020 so maybe the trends leading up to 2017 may have changed. Si
 For the outcomes vs launch date I did like the line chart we used because the trend was easir to visualze.
 However, for outcomes based on goals I would prefer to use a stacked column graph with one trend line. For me it is easier to see the trend by looking at one line. The bar graph I used is located below.
 ![](./Resources/Column_graph.png). 
-test
