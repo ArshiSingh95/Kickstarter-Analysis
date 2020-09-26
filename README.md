@@ -29,7 +29,7 @@ Some challenges include the manual input and lack of feedback from Excel. For ex
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- In march there  61% out outcomes were successful, April had 64% successful outcomes, and May had rate of success at 67%. The average failed outcome rate was about 34% from March-May. 
+In march there  61% out outcomes were successful, April had 64% successful outcomes, and May had rate of success at 67%. The average failed outcome rate was about 34% from March-May. 
 Conversely, October-December seem to be the months with lowest success rate. October had a success rate of 57%, November had a success rate of 61%, and December with success rate of 49%. Average failure ratio between October-Decmeber was higher at 42%. Please see table below to refernce outcome ratios.
 
 First conclusion: March - May has the highest chance of success as an outcome. The average success rate was the highest for these three months at 64%.
@@ -52,4 +52,5 @@ Also, we are in 2020 so maybe the trends leading up to 2017 may have changed. Si
 
 For the outcomes vs launch date I did like the line chart we used because the trend was easir to visualze.
 However, for outcomes based on goals I would prefer to use a stacked column graph with one trend line. For me it is easier to see the trend by looking at one line. The bar graph I used is located below.
+
 ![](./Resources/Column_graph.png). 
