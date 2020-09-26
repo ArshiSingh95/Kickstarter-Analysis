@@ -31,7 +31,7 @@ Some challenges include the manual input and lack of feedback from Excel. For ex
 
 ## Results!
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Launch Date Outcomes
 
 In march there  61% out outcomes were successful, April had 64% successful outcomes, and May had rate of success at 67%. The average failed outcome rate was about 34% from March-May. 
 Conversely, October-December seem to be the months with lowest success rate. October had a success rate of 57%, November had a success rate of 61%, and December with success rate of 49%. Average failure ratio between October-Decmeber was higher at 42%. Please see table below to refernce outcome ratios.
@@ -42,17 +42,17 @@ Second Conclusion: October-December is not the ideal time to starta campaign bec
 
 
 
-- What can you conclude about the Outcomes based on Goals?
+### Outcomes Based on Goals
 
 The top two success rates of 75.8% and 72.7% were when the goal was below $5000. The graph also illustrae as the goal increases the success rate decreased and failure rate increases. Although, there was a slght increase between the goal ranges ($35000-$45000). The success rate in this bin was 67% but the sample size was only 9 Projects. It is hard to make a justifable assertion from a small sample size but it may reqire more date mining. In Conlclusion, the maximixe the probability of success, the goal should be kept lower because there is a postive correlation between low goal amount and success rate.
 
-- What are some limitations of this dataset?
+### Limitations of the Dataset
 
 One limiation is the sub category may not be granular enough to provide a complete actionable insight. Within plays there may be some genres which are more popular than other. Lacking this data is a limitation. 
 Also, we are in 2020 so maybe the trends leading up to 2017 may have changed. Since the data is oudated we can assert the time frame is a limitation. 
 
 
-- What are some other possible tables and/or graphs that we could create?
+### Other Potential Graphs/Tables
 
 For the outcomes vs launch date I did like the line chart we used because the trend was easir to visualze.
 However, for outcomes based on goals I would prefer to use a stacked column graph with one trend line. For me it is easier to see the trend by looking at one line. The bar graph I used is located below.
