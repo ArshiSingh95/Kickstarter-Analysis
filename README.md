@@ -19,7 +19,9 @@ Conversely, October-December seem to be the months with lowest success rate. Oct
 ### Analysis of Outcomes Based on Goals  
 ![](./Resources/Outcomes_vs_Goals.png)
 
-The graph visualzies the relationshio between Outcomes and Goal amounts in different ranges. To anlalyze this data the first step was to find out the outcomes based on Goal amount, Outcomes and sub-catefory which in this case only plays. Countif statements were used to derive this data. The range for each bin was seperated by 5000 units/dollars. An example of a countif statemetn used is **=COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<5000",Kickstarter!$F:$F,'Outcomes based on Goals'!L1,Kickstarter!$R:$R,"Plays"**)  
+The graph visualzies the relationshio between Outcomes and Goal amounts in different ranges. To anlalyze this data the first step was to find out the outcomes based on Goal amount, Outcomes and sub-catefory which in this case only plays. Countif statements were used to derive this data. The range for each bin was seperated by 5000 units/dollars. An example of a countif statemetn used is
+
+> **=COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<5000",Kickstarter!$F:$F,'Outcomes based on Goals'!L1,Kickstarter!$R:$R,"Plays"**)     
 
 ### Challenges and Difficulties Encountered
 Some challenges include the manual input and lack of feedback from Excel. For example, is there is an error in the formula Excel is not able to pinpoint the error. Instead an error statement is populated. Also, a simple typo or misspelling can cause the data output to be incorrect so making sure the criteria matches the data or column script is essential. 
